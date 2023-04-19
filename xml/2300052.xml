@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Development and Application of Liutex and Third Generation of Vortex Definition and Identification]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>243229.00</AwardTotalIntnAmount>
+<AwardAmount>243229</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Vortex is intuitively recognized as a rotational/swirling motion of fluids. Vortex is omnipresent in the universe and affects human life and the environment. Humanity is faced with existential and catastrophic threats which are largely caused by vortex in many cases, such as human-induced climate change leads to extreme weather, unprecedented hurricanes, and life-threatening tornados.  In addition, pandemic and pollution-induced respiratory and heart diseases are rampant.  In many of these catastrophic events, the vortex plays a key role.  In addition, vortex controls the dynamics of turbulence and noise generation.  However, vortex had no rigorous definition, existing vortex identification methods are not accurate and appropriate, and the demonstrated vortex structure of turbulence is not unique. The goal of this project is to develop a comprehensive Liutex and third generation of vortex definition and identification. &lt;br/&gt;&lt;br/&gt;The rigorous mathematical definition of local fluid rotation and global vortex will be further modified to be unique, accurate and appliable to vortex science and turbulence research. A high-order vortex identification software – LiutexUTA, Modified Liutex-OmegaUTA, Liutex-Core-LineUTA methods – will be developed and distributed to the turbulence research community. The 3-D Liutex generation mechanism will be revealed, which is a key issue of the hairpin vortex formation. The new Liutex-based Fluid Kinematics will be developed to guide fluid dynamics in education and research. The new Liutex/Vortex dynamics will be investigated, and the new fluid dynamics governing equations will be revisited and new ideas will be presented based on the research progress.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/21/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>11/21/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2300052</AwardID>
+<Investigator>
+<FirstName>Chaoqun</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chaoqun Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[cliu@uta.edu]]></EmailAddress>
+<NSF_ID>000481998</NSF_ID>
+<StartDate>11/21/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Arlington</Name>
+<CityName>ARLINGTON</CityName>
+<ZipCode>760199800</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress>701 S. NEDDERMAN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMLUKUPJJ9N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF TEXAS AT ARLINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Arlington]]></Name>
+<CityName>Arlington</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>760190145</ZipCode>
+<StreetAddress><![CDATA[701 S. Nedderman Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~243229</FUND_OBLG>
+</Award>
+</rootTag>

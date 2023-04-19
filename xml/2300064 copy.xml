@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-TT:  Point-of-Care Sensor Based on Electric Fields and Machine Learning for the  Detection of Circulating MicroRNA to Identify Early Stage Pancreatic Cancer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>221180</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+<PO_EMAI>jsoriano@nsf.gov</PO_EMAI>
+<PO_PHON>7032927795</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Partnerships for Innovation - Technology Translation (PFI-TT) project is to develop a point of care biosensor device for early detection of pancreatic cancer. Currently, it is difficult to detect early-stage pancreatic cancers, therefore 5-year survival rates are less than 5%. If pancreatic cancer is detected early, 5-year survival rate can be over 90%. The proposed biosensor seeks to efficiently and accurately detect the expression levels of circulating blood microRNA biomarkers recently suggested to indicate early pancreatic cancers. The proposed biosensor is a disposable device that uses electric fields and fluorescence for detection of microRNA biomarkers. If successful, these sensors may detect pancreatic cancer biomarkers rapidly. The commercial impact of the project is potentially high as this project addresses a critical need in healthcare with a practical technological solution. The proposed training on entrepreneurship will involve training students on intellectual property procedures, the analysis of the commercialization potential of a product, and start-up development. The outreach program is aimed at introducing the basic concepts of innovation and entrepreneurship to underrepresented groups in the region.  &lt;br/&gt;&lt;br/&gt;The proposed project will study microRNA and DNA hybridization, and use machine learning based regression methods for the estimation of concentrations of microRNA biomarker molecules. Currently, high temperature-based microRNA and DNA hybridization is used but it takes time to perform and is prone to produce false positives. To address these issues, a novel approach will be developed to potentially produce microRNA and DNA hybridization assays with fewer false positives. Automated detection of microRNA is needed in point of care as there is no technical expertise to perform manual microRNA detection. These proposed studies in machine learning will investigate regression methods for accurately estimating the concentrations of microRNA biomarkers. Finally, proposed microRNA detection will be automated to be useful in point of care applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/17/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>02/17/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2300064</AwardID>
+<Investigator>
+<FirstName>Dharmakeerthi</FirstName>
+<LastName>Nawarathna</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dharmakeerthi Nawarathna</PI_FULL_NAME>
+<EmailAddress><![CDATA[dnawarat@odu.edu]]></EmailAddress>
+<NSF_ID>000895627</NSF_ID>
+<StartDate>02/17/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Old Dominion University Research Foundation</Name>
+<CityName>NORFOLK</CityName>
+<ZipCode>235082561</ZipCode>
+<PhoneNumber>7576834293</PhoneNumber>
+<StreetAddress>4111 MONARCH WAY</StreetAddress>
+<StreetAddress2><![CDATA[STE 204]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DSLXBD7UWRV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OLD DOMINION UNIVERSITY RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Old Dominion University Research Foundation]]></Name>
+<CityName>NORFOLK</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>235082561</ZipCode>
+<StreetAddress><![CDATA[4111 MONARCH WY STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8616</Code>
+<Text>Instr Rsrch,Metro&amp;Std NanTech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~221180</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Grow with Rhodes: Expanding Awareness of Agriculture Technology Careers and Pathways]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>526765.00</AwardTotalIntnAmount>
+<AwardAmount>526765</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Sverdrup</SignBlockName>
+<PO_EMAI>ksverdru@nsf.gov</PO_EMAI>
+<PO_PHON>7032924671</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project aims to serve the national interest by introducing modern agriculture to STEM high school students, especially females, and their teachers, as a viable STEM career choice in northwest Ohio. STEM-field sectors, such as computer science and traditional engineering disciplines, are more familiar to high school students as a career choice, but agriculture technology is typically only considered by a small population of traditional farm youth. In addition to educating STEM/Agriculture students, their teachers and counselors, who are influential in students' education and career choices, should be educated about this viable industry sector so they can demonstrate and speak about it to students. Modern agriculture equipment includes sophisticated robotics, sensors, artificial intelligence, machine learning, and data manipulation software designed to collect field data to increase productivity, raise profitability, and sustain the environment.  This equipment is missing a tech-savvy workforce of technicians needed to operate, compile field data, and make management decisions. This project is designed to create career-specific Ag Tech career pathway materials and provide hands-on experiences in the field and in the classroom for both STEM high school students and their teachers with the goal of increasing awareness of modern agriculture as a viable career option, thus meriting serious consideration as a career by STEM students. &lt;br/&gt;&lt;br/&gt;STEM/Agriculture teachers will learn about the industry, careers, and advanced technology. Participants will use the technology to solve real-world nutrient management problems in the Grow with Rhodes Institute, allowing direct connections to be made between STEM principles and agriculture. The Institute will encourage STEM teachers to create their own teaching modules based on the Institute’s problem/solution sets and to teach it in their own high-school classrooms. The project will also foster interest in agriculture careers by bringing the technology to the high schools to assist STEM teachers in teaching their Institute module to their students, thus allowing students to use technology and data to connect STEM discipline concepts to agriculture. A Young Women in Agriculture mentoring program is planned to encourage STEM young women to choose agriculture as a career. These activities will serve as a model for other institutions. This project is funded by the Advanced Technological Education program that focuses on the education of technicians for the advanced-technology fields that drive the nation’s economy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/06/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>04/06/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2300008</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Uphaus</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James Uphaus</PI_FULL_NAME>
+<EmailAddress><![CDATA[Uphaus.J@rhodesstate.edu]]></EmailAddress>
+<NSF_ID>000865776</NSF_ID>
+<StartDate>04/06/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>James A. Rhodes State College</Name>
+<CityName>LIMA</CityName>
+<ZipCode>458043576</ZipCode>
+<PhoneNumber>4199958200</PhoneNumber>
+<StreetAddress>4240 CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KU18ELRNSFJ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>JAMES A. RHODES STATE COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[James A. Rhodes State College]]></Name>
+<CityName>LIMA</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>458043576</ZipCode>
+<StreetAddress><![CDATA[4240 CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7412</Code>
+<Text>Advanced Tech Education Prog</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>04002324DB</Code>
+<Name><![CDATA[NSF STEM Education]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~526765</FUND_OBLG>
+</Award>
+</rootTag>

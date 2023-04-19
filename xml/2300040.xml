@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: RAPID: Do large recent wildfires in the Yukon River Delta alter the delivery of black carbon to the Arctic Ocean?]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>22324.00</AwardTotalIntnAmount>
+<AwardAmount>22324</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rainer Amon</SignBlockName>
+<PO_EMAI>ramon@nsf.gov</PO_EMAI>
+<PO_PHON>7032927979</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Wildfires produce charcoal, also termed black carbon, which is resistant to breakdown and is environmentally long-lived. A portion of this charred material is dissolved upon interaction with water and is carried away from soils to rivers as dissolved black carbon (DBC). A warmer and drier climate has led to increased wildfire activity in Arctic regions and it is unknown how these changes will affect the amount of DBC in rivers and its fate in the coastal environment. In the summer of 2022, the Apoon Pass and East Fork Fires burned &gt;255,000 acres in the Yukon River Delta (Alaska, USA), part of a trend towards larger and more frequent wildfires in the Delta in recent years. The main goal of this project is to determine whether recent wildfire activity in the Delta leads to increased amounts of DBC along the Yukon River and estuary to the coastal Arctic Ocean. Results of this work will lay the groundwork for future, large-scale studies on fire-derived carbon in vulnerable Arctic watersheds. This project will support collaboration among two early career researchers and one graduate student with guidance from an experienced Arctic investigator.&lt;br/&gt;&lt;br/&gt;Pan-Arctic watersheds are experiencing increased fire activity as a result of climate change. The cumulative effects of wildfire (charcoal production, soil destabilization, change in hydrologic flow paths) on carbon export in major Arctic rivers is currently unknown. This project will determine whether large, recent wildfires within the Yukon River Delta have changed the distribution, composition, and total export of DBC along the Yukon River-to-Arctic Ocean continuum. To achieve this goal, new samples will be collected during the 2023 spring freshet and results compared to those obtained from archived 2019 freshet samples. We will employ a combination of molecular marker, stable carbon isotope, and ultrahigh resolution mass spectral techniques to evaluate wildfire-DBC relationships in the Yukon River Delta between low-fire (2019; ~10,000 acres burned) and high-fire (2023; &gt;255,000 acres burned) years. This work builds upon other efforts to predict the effects of climate change on carbon cycling in Arctic-boreal landscapes and will assist in answering broad research questions regarding the behavior of DBC in intermediate reservoirs and fate of terrestrial organic matter in the coastal ocean.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/03/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>02/03/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2300040</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Spencer</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert G Spencer</PI_FULL_NAME>
+<EmailAddress><![CDATA[rgspencer@fsu.edu]]></EmailAddress>
+<NSF_ID>000569493</NSF_ID>
+<StartDate>02/03/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Kellerman</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anne M Kellerman</PI_FULL_NAME>
+<EmailAddress><![CDATA[akellerman@fsu.edu]]></EmailAddress>
+<NSF_ID>000715103</NSF_ID>
+<StartDate>02/03/2023</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida State University</Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323060001</ZipCode>
+<PhoneNumber>8506445260</PhoneNumber>
+<StreetAddress>874 TRADITIONS WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF2BLNN4PJC3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida State University]]></Name>
+<CityName>TALLAHASSEE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>323060001</ZipCode>
+<StreetAddress><![CDATA[874 TRADITIONS WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5280</Code>
+<Text>ANS-Arctic Natural Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5294</Code>
+<Text>USGCRP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>0100CYXXDB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~22324</FUND_OBLG>
+</Award>
+</rootTag>
